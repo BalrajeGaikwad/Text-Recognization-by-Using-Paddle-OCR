@@ -1,0 +1,1 @@
+# Text-Recognization-by-Using-Paddle-OCR
